@@ -10,3 +10,4 @@ def funk_S350_24_JOU(massiv):
 
 # Test
 print(funk_S350_24_JOU([4, 67, 34, 98]))
+print("Branch JOU dan qo'shilgan o'zgarish")
